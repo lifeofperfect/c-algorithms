@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\bin\Debug\netcoreapp3.1\Remove Palindromic sequence.exe
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\bin\Debug\netcoreapp3.1\Remove Palindromic sequence.deps.json
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\bin\Debug\netcoreapp3.1\Remove Palindromic sequence.runtimeconfig.json
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\bin\Debug\netcoreapp3.1\Remove Palindromic sequence.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\bin\Debug\netcoreapp3.1\Remove Palindromic sequence.dll
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\bin\Debug\netcoreapp3.1\Remove Palindromic sequence.pdb
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\obj\Debug\netcoreapp3.1\Remove Palindromic sequence.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\obj\Debug\netcoreapp3.1\Remove Palindromic sequence.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\obj\Debug\netcoreapp3.1\Remove Palindromic sequence.AssemblyInfo.cs
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\obj\Debug\netcoreapp3.1\Remove Palindromic sequence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\obj\Debug\netcoreapp3.1\Remove Palindromic sequence.dll
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\obj\Debug\netcoreapp3.1\Remove Palindromic sequence.pdb
+C:\Users\ASUS\Documents\code\algorithm\c#\Remove Palindromic sequence\obj\Debug\netcoreapp3.1\Remove Palindromic sequence.genruntimeconfig.cache
